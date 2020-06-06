@@ -10,7 +10,7 @@
   "license": "MIT",
   "dependencies": {
     "apollo-link-http": "^1.5.14",
-    "apollo-server": "^2.5.0-alpha.7",
+    "apollo-server": "^2.14.2",
     "cors": "^2.8.5",
     "dotenv": "^6.2.0",
     "fs": "^0.0.1-security",
