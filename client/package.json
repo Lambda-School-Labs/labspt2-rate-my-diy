@@ -23,7 +23,7 @@
     "mathjs": "^5.8.0",
     "micromodal": "^0.3.2",
     "moment": "^2.24.0",
-    "node-sass": "^4.11.0",
+    "node-sass": "^4.13.1",
     "prettier": "^1.16.4",
     "primeicons": "^1.0.0",
     "primereact": "^3.1.2",
